@@ -1,0 +1,43 @@
+* {
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin-top: 0px;
+  margin-left: 0px;
+  width: fit-content;
+  
+}
+
+form {
+  background: rgb(38, 33, 33);
+  border: 2px solid black;
+  margin-left: 0px;
+ 
+  
+
+}
+
+table {
+  background: rgb(38, 33, 33);
+  border: 2px solid black;
+  margin-left: 0px;
+  
+}
+
+tr{
+  color: aliceblue;
+}
+
+input {
+  clear: both;
+  display: inherit;
+  float: initial;
+  font-weight: 300;
+  border-radius: 10px;
+  background: white;
+}
+
+input:focus {
+  border-radius: 10px;
+  outline: none;
+}
